@@ -1,1 +1,1 @@
-# my linklist
+# C++ linklist class
